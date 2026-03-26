@@ -1,4 +1,4 @@
-earch Paper Assistant Agent
+🧠 Research Paper Assistant Agent
 ----------------------------------
 🎓 Master’s Final Project — LLM Course
 
